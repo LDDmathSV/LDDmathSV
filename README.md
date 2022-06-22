@@ -1,4 +1,4 @@
-- Informations sur la double licence Math-SV à Paris Saclay
+- Informations sur la licence double-diplômes Math-SV à Paris Saclay
 
 <!---
 LDDmathSV/LDDmathSV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
