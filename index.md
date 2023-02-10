@@ -17,7 +17,7 @@ La licence double-diplôme permet d'obtenir un diplôme licence adossé à un di
 
 ## Journée "Portes Ouvertes" en distanciel et présentiel le samedi 11 février 2023 de 10h à 17h. 
 
-Pour le distanciel, vous pouvez vous connecter sur le lien suivant [https://greenlight.virtualdata.cloud.math.cnrs.fr/b/pie-mm3-3gp] pour poser toutes vos questions.
+Pour le distanciel, vous pouvez vous connecter sur le lien suivant [https://greenlight.virtualdata.cloud.math.cnrs.fr/b/pie-mm3-3gp](https://greenlight.virtualdata.cloud.math.cnrs.fr/b/pie-mm3-3gp) pour poser toutes vos questions.
 
 Les journées "Portes Ouvertes" (présentiel) de la formation auront lieu le samedi 11 février 2023 de 10h à 17h. Toutes les informations sur les journées "Portes Ouvertes" sont disponibles ici [https://www.sciences.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-la-faculte-des-sciences-dorsay-vendredi-10-et-samedi-11-fevrier-2023](https://www.sciences.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-la-faculte-des-sciences-dorsay-vendredi-10-et-samedi-11-fevrier-2023)
 
