@@ -21,14 +21,21 @@ Si vous souhaitez des informations sur la formation, vous pouvez nous contacter 
 pour poser vos questions.
 
 
-#### Poursuite d'études
+#### Témoignages d'étudiantes de la double licence. 
+
+_Je suis en première année de licence double diplôme Mathématiques et Sciences de la Vie. A la fin du lycée je savais que je voulais faire de la biologie mais je ne m'imaginais pas arrêter les maths (mes spécialités étaient SVT et Maths). J'ai donc choisi la formation LDD MSV car elle me permettait de continuer à la fois les maths et ma biologie. De plus si jamais au cours de mon cursus je me rend compte que je préfère les maths ou la biologie je peux toujours intégrer une licence de maths ou biologie. Comme la formation me plait je compte rester les 3 années, néanmoins cela demande beaucoup de travail car les journées sont chargées (souvent 8h45 à 17h45) et la charge de travail est importante, surtout en maths car la méthode de travail est très différente du lycée. Les maths au lycée ont un aspect beaucoup plus concret et calculatoire que l'on ne retrouve pas dans la licence._ Alicia.
+
+_Je suis en première année dans la formation licence double diplôme maths science de la vie. J’ai choisi cette formation car elle permet d’acquérir des compétences à la fois en mathématiques et en science de la vie, mais aussi en informatique pour faire le lien entre ces deux matières. En terminale j'ai suivi les spécialités mathématiques, physique chimie ainsi que l'option maths experte, cela m’a servi car dans les matières que nous suivons cette année on retrouve de la chimie, en plus des maths et de la bio.
+J’aime beaucoup cette formation car ce que nous y apprenons m’intéresse, de plus nous sommes 22 dans ma promotion, ce qui nous a permis de former un groupe très soudé dans lequel nous nous entraidons beaucoup._ Marie.
+
+## Poursuite d'études
 
 Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
 
 Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
 
-#### Conditions d'admission
+## Conditions d'admission
 
 Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail ou en venant directement nous rencontrer lors de la  journée "portes ouvertes" le samedi 11 février 2023. 
 
