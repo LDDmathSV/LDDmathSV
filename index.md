@@ -36,7 +36,7 @@ Si vous souhaitez des informations sur la formation, vous pouvez nous contacter 
 pour poser vos questions.
 
 
-#### Témoignages d'étudiantes de la licence double diplôme MathSV
+#### Témoignages d'étudiants et d'anciens de la licence double diplôme MathSV
 
 _Je suis en première année de licence double diplôme Mathématiques et Sciences de la Vie. A la fin du lycée je savais que je voulais faire de la biologie mais je ne m'imaginais pas arrêter les maths (mes spécialités étaient SVT et Maths). J'ai donc choisi la formation LDD MSV car elle me permettait de continuer à la fois les maths et ma biologie. De plus si jamais au cours de mon cursus je me rend compte que je préfère les maths ou la biologie je peux toujours intégrer une licence de maths ou biologie. Comme la formation me plait je compte rester les 3 années, néanmoins cela demande beaucoup de travail car les journées sont chargées (souvent 8h45 à 17h45) et la charge de travail est importante, surtout en maths car la méthode de travail est très différente du lycée. Les maths au lycée ont un aspect beaucoup plus concret et calculatoire que l'on ne retrouve pas dans la licence._ Alicia.
 
