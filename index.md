@@ -15,14 +15,14 @@ Des informations plus précises sur cette formation, notamment le descriptif du 
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
-## Poursuite d'études
+#### Poursuite d'études
 
 Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
 
 Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
 
-## Conditions d'admission
+#### Conditions d'admission
 
 Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail (voir dessous). 
 
