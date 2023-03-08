@@ -15,6 +15,21 @@ Des informations plus précises sur cette formation, notamment le descriptif du 
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
+## Poursuite d'études
+
+Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
+
+Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
+
+
+## Conditions d'admission
+
+Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail (voir dessous). 
+
+
+**Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
+
+
 ## Les Journée "Portes Ouvertes" ont déjà eu lieu cette année (le samedi 11 février 2023)
 
 Si vous souhaitez des informations sur la formation, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
@@ -33,20 +48,8 @@ _Actuellement en fin de M2, j'ai intégré mon master de Bioinformatique (Paris-
 _Je n’étais pas certaine de ce que je voulais faire à la sortie du lycée. Je savais que j’aimais les maths, et mon objectif initial était d’intégrer une licence simple de mathématiques. Comme j’aimais aussi la biologie et que j’étais bonne élève, j’ai décidé de demander aussi la double licence Mathématiques et Sciences de la Vie sur Parcoursup. Et surprise, j’y ai été acceptée ! Je n’ai pas regretté mon choix : malgré la quantité de travail assez conséquente, j’ai adoré la pluridisciplinarité de la formation. La petite taille de la promo nous a permis de créer des liens et de pouvoir travailler en groupe plus facilement. Les difficultés sont arrivées au cours des années : la formation devenait de plus en plus exigeante, notamment en mathématiques où il faut fournir un travail régulier pour ne pas se perdre. Loin de là les maths du lycée, c’était de plus en plus abstrait et technique au fil des cours. Les enseignements que nous avons dû suivre en distanciel à cause de la pandémie ne nous ont pas facilité les choses. 
 J’ai réussi, non sans mal, à valider et obtenir ma licence double-diplôme. Ce qui est bien à l’issue d’une telle formation, c’est que de nombreuses portes nous sont ouvertes, dans des disciplines variées, pour poursuivre nos études. Je me suis rendue compte au fil des années que j’étais faite pour la biologie et non pour les mathématiques. J’ai donc intégré un master de Neurosciences que j’ai adoré suivre. La double licence m’a permis d’aborder les problèmes avec un point de vue différent. Malgré les difficultés, j’en garde un très bon souvenir et je suis fière d’avoir fait partie de la première promotion de double-diplômés français en Mathématiques et Sciences de la Vie._ Lucie.
 
-## Poursuite d'études
 
-Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
-
-Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
-
-
-## Conditions d'admission
-
-Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail (voir dessous). 
-
-
-**Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
-
+## Procédures d'admission 
 
 ### Admission en première année (LDD1)
 
