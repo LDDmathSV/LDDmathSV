@@ -15,7 +15,7 @@ Des informations plus précises sur cette formation, notamment le descriptif du 
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
-## Journée "Portes Ouvertes" ont déjà eu lieu cette année (le samedi 11 février 2023)
+## Les Journée "Portes Ouvertes" ont déjà eu lieu cette année (le samedi 11 février 2023)
 
 Si vous souhaitez des informations sur la formation, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
 pour poser vos questions.
