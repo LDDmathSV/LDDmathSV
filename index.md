@@ -4,7 +4,7 @@
 #### Informations générales sur la licence double-diplôme MathSV 
 
 
-La licence double-diplôme biologie-mathématique est ouverte depuis quelques années 
+La licence double-diplôme biologie-mathématiques est ouverte depuis quelques années 
 à l'Université Paris Saclay. Il s'agit d'une **formation sélective** (24 étudiant(e)s) **intensive
 et exigeante** en mathématiques ET en biologie. 
 
