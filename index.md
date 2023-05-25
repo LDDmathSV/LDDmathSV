@@ -76,8 +76,8 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
       - NB: en cas de problème technique,consultez les FAQ et/ou envoyez un message
 à assistance.candidature@universite-paris-saclay.fr
 
-  - Ouverture de la période de candidature : au cours du mois de **mai 2023**. 
-  - Fermeture de la période de candidature : au cours du mois de  **juin 2023**.
+  - Ouverture de la période de candidature : le ** 25 mai 2023**. 
+  - Fermeture de la période de candidature : le ** 30 juin 2023**.
   - Les étudiant(e)s sont sélectionné(e)s sur dossier. Les étudiant(e)s retenu(e)s seront contacté(e)s à partir de mi-juillet.
  
 #### Pour toute demande d'informations, n'hésitez pas à contacter la personne ci-dessous :
