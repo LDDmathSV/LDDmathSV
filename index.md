@@ -36,10 +36,12 @@ Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour pr�
 
 Les étudiants qui rejoignent la licence double-diplôme après une première année de médecine (PASS) doivent avoir conscience que le niveau en mathématiques dans la licence double-diplôme est très élevé. En tant qu'étudiant en PASS, ces étudiants n'ont pas fait de mathématiques depuis le baccalauréat et doivent sérieusement se mettre à niveau en mathématiques avant leur entrée en LDD1.   
 
-## Les Journée "Portes Ouvertes" ont déjà eu lieu cette année (le samedi 11 février 2023)
+## Les Journée "Portes Ouvertes" auront lieu le samedi 3 février 2024
 
-Si vous souhaitez des informations sur la formation, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
-pour poser vos questions.
+Les informations sont disponibles ici [https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.](https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.)
+
+Si vous souhaitez des informations sur la formation, et que vous ne pouvez pas vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
+pour poser vos questions. 
 
 
 #### Témoignages d'étudiants et d'anciens de la licence double diplôme MathSV
@@ -60,8 +62,8 @@ J’ai réussi, non sans mal, à valider et obtenir ma licence double-diplôme. 
 ### Admission en première année (LDD1)
 
  - La procédure d'admission en première année est disponible via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
- - **La limite pour s'incrire et formuler les voeux est fixée au 9 mars 2023.** 
- - **La limite pour déposer les dossiers est fixée au 6 avril 2023.**
+ - **La limite pour s'incrire et formuler les voeux est fixée au 14 mars 2024.** 
+ - **La limite pour déposer les dossiers est fixée au 3 avril 2024.**
  - La phase complémentaire parcoursup s’ouvrira au cours du mois de juin. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
 
@@ -82,8 +84,8 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
       - NB: en cas de problème technique,consultez les FAQ et/ou envoyez un message
 à assistance.candidature@universite-paris-saclay.fr
 
-  - Ouverture de la période de candidature : le **25 mai 2023**. 
-  - Fermeture de la période de candidature : le **30 juin 2023**.
+  - Ouverture de la période de candidature : le **25 mai 2024**. 
+  - Fermeture de la période de candidature : le **20 juillet 2024**.
   - Les étudiant(e)s sont sélectionné(e)s sur dossier. Les étudiant(e)s retenu(e)s seront contacté(e)s à partir de mi-juillet.
  
 #### Pour toute demande d'informations, n'hésitez pas à contacter la personne ci-dessous :
