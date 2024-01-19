@@ -21,6 +21,7 @@ Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser 
 
 Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
+Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de sciences physiques. 
 
 #### Conditions d'admission
 
