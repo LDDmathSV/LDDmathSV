@@ -56,8 +56,6 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 
 #### Les Journée "Portes Ouvertes" ont eu lieu le samedi 3 février 2024
 
-Les informations sont disponibles ici [https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.](https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.)
-
 Si vous souhaitez des informations sur la formation, et que vous n'avez pas pu vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
 pour poser vos questions. 
 
