@@ -11,7 +11,7 @@ et exigeante** en mathématiques ET en biologie.
 
 Elle s'adresse aux étudiant(e)s ayant un bon niveau en mathématiques et souhaitant approfondir l’étude des deux disciplines. 
 
-Des informations plus précises sur cette formation, notamment le descriptif du programme des trois années de licence (LDD1, LDD2 et LDD3) sont accessibles ici : [https://www2licences.imo.universite-paris-saclay.fr/mathematiques-sciences-de-la-vie/](https://www2licences.imo.universite-paris-saclay.fr/mathematiques-sciences-de-la-vie/).
+Des informations plus précises sur cette formation, notamment le descriptif du programme des trois années de licence (LDD1, LDD2 et LDD3) sont accessibles ici : [https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie).
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
