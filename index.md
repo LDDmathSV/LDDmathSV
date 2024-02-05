@@ -21,9 +21,9 @@ Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser 
 
 Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
-#### Avertissements
+#### Avertissements concernant les poursuites d'études
 - Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour préparer ces concours, il faut effectuer une classe préparatoire BCPST, ou rejoindre l'université en licence de biologie puis rejoindre le cursus bioconcours [http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf](http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf).
-- Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de sciences physiques. 
+- Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences ou de sciences cognitives. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de physique. 
 
 
 
@@ -35,11 +35,13 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 **Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
 
 
-#### Avertissement 
+#### Avertissement concernant les réorientations des étudiants de PASS
 
 - Les étudiants qui rejoignent la licence double-diplôme après une première année de médecine (PASS) doivent avoir conscience que le niveau en mathématiques dans la licence double-diplôme est très élevé. En tant qu'étudiant en PASS, ces étudiants n'ont pas fait de mathématiques depuis le baccalauréat et doivent sérieusement se mettre à niveau en mathématiques avant leur entrée en LDD1.   
 
-## Les Journée "Portes Ouvertes" ont eu lieu le samedi 3 février 2024
+## Rencontres aves les étudiants de la formation
+
+#### Les Journée "Portes Ouvertes" ont eu lieu le samedi 3 février 2024
 
 Les informations sont disponibles ici [https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.](https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.)
 
@@ -169,8 +171,8 @@ En troisème année, différents parcours permettent de sélectionner différent
 Une procédure d'admission en deuxième année de licence et troisième est possible (pour les étudiants ayant le niveau requis) pour réussir dans la formation 
  via la plateforme eCandidat  [https://ecandidat.universite-paris-saclay.fr](https://ecandidat.universite-paris-saclay.fr) :
  
- - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2022-2023, identifiez-vous avec vos identifiants ADONIS
- -  Pour les étudiant(e)s non-inscrit(e)s à l’UPSaclay en 2022-2023, vous devrez créer un compte.
+ - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2023-2024, identifiez-vous avec vos identifiants ADONIS
+ -  Pour les étudiant(e)s non-inscrit(e)s à l’UPSaclay en 2023-2024, vous devrez créer un compte.
  -  Pour candidater :
       - consultez le Guide d'utilisation eCandidat disponible [ici](http://webapplis3.di.u-psud.fr/ecandidat-aide/documentation/candidat/guide_du_candidat.pdf)
       - déposez tous les justificatifs demandés (CV ; lettre de motivation ; relevés de notes
