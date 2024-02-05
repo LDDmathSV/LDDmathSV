@@ -25,7 +25,20 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 - Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour préparer ces concours, il faut effectuer une classe préparatoire BCPST, ou rejoindre l'université en licence de biologie puis rejoindre le cursus bioconcours [http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf](http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf).
 - Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences ou de sciences cognitives. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de physique. 
 
-
+#### Liste non exhaustive des masters rejoints par certains anciens étudiants de la formation
+- M1 Biologie Santé, Université Paris Saclay
+- M1 Bio-informatique et Bio-statistiques, Université Paris Saclay
+- M1 Mathématiques pour l’intelligence artificielle, Université Paris Saclay
+- M1 Informatique parcours Bio-informatique et modélisation BIM-BMC, Sorbonne Université
+- ENS Paris Saclay (admission en deuxième année)
+- M1 Mathématiques appliquées, Université Paris Saclay
+- M1 Biologie Intégrative et Physiologie, Université Paris Saclay
+- M1 Neurosciences, parcours science des comportements, Université de Caen Normandie
+- M1 Bio-Informatique, parcours Computational and Mathematical Biology, Aix-Marseille Université
+- M1 Bioinformatik und Biostatistik, Technische Universität München
+- M1 Génie Biomédical, Université de Toulouse Paul Sabatier
+- M1 Danmarks Tekniske Universitet, DTU 
+- ENJIM-Cnam (Ecole Nationale du Jeu et des Médias interactifs)
 
 ## Conditions d'admission
 
