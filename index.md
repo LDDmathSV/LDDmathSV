@@ -38,7 +38,7 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 - M1 Bioinformatik und Biostatistik, Technische Universität München
 - M1 Génie Biomédical, Université de Toulouse Paul Sabatier
 - M1 Danmarks Tekniske Universitet, DTU 
-- ENJIM-Cnam (Ecole Nationale du Jeu et des Médias interactifs)
+- ...
 
 ## Conditions d'admission
 
