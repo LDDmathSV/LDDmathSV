@@ -26,9 +26,9 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 - Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences ou de sciences cognitives. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de physique. 
 
 #### Liste non exhaustive des masters rejoints par certains anciens étudiants de la formation
-- M1 Biologie Santé, Université Paris Saclay
-- M1 Bio-informatique et Bio-statistiques, Université Paris Saclay
-- M1 Mathématiques pour l’intelligence artificielle, Université Paris Saclay
+- **M1 Biologie Santé, Université Paris Saclay**
+- **M1 Bio-informatique et Bio-statistiques, Université Paris Saclay**
+- **M1 Mathématiques pour l’intelligence artificielle, Université Paris Saclay**
 - M1 Informatique parcours Bio-informatique et modélisation BIM-BMC, Sorbonne Université
 - ENS Paris Saclay (admission en deuxième année)
 - M1 Mathématiques appliquées, Université Paris Saclay
