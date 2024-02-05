@@ -15,15 +15,19 @@ Des informations plus précises sur cette formation, notamment le descriptif du 
 Un document en pdf présentant la licence est également disponible ici [pdf infos](https://www.universite-paris-saclay.fr/sites/default/files/media/formations/WEB%20LDD%20Mathématiques%2C%20Sciences%20de%20la%20Vie.pdf).
 La licence double-diplôme permet d'obtenir un diplôme licence adossé à un diplôme universitaire et d'acquérir 240 ECTS au lieu de 180 ECTS pour la licence seule.
 
-#### Poursuite d'études
+## Poursuite d'études
 
 Cette licence double-diplôme s'adresse aux étudiant(e)s souhaitant se laisser la possibilité de **poursuivre en master de mathématiques ou en master de biologie** par la suite. 
 
 Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de rejoindre certaines grandes écoles par des voies d'admissions parallèles. En particulier, cette licence double-diplôme dispose de partenariats avec l'école **CentraleSupélec** [(Ingénierie pour la santé)](https://www.centralesupelec.fr/sites/default/files/8p-sante_web_v1.pdf) et l'école **ENSAE** [(https://www.ensae.fr)](https://www.ensae.fr). 
 
-Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de sciences physiques. 
+#### Avertissements
+- Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour préparer ces concours, il faut effectuer une classe préparatoire BCPST, ou rejoindre l'université en licence de biologie puis rejoindre le cursus bioconcours [http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf](http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf).
+- Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de sciences physiques. 
 
-#### Conditions d'admission
+
+
+## Conditions d'admission
 
 Les enseignements de mathématiques sont communs avec d’autres filières sélectives de l'université Paris Saclay (Licences double-diplôme math-économie, math-informatique, math-physique). Le rythme d'apprentissage en mathématiques est donc très soutenu. Pour intégrer cette licence double-diplôme, il est obligatoire de disposer d'un bon niveau en mathématiques, en ayant par exemple suivi la "spécialité mathématiques" en terminale. L'option "mathématiques expertes" est conseillée. Nous conseillons aux étudiants n'ayant pas suivi la "spécialité mathématiques" en terminale de prendre contact avec les responsables de formation par e-mail (voir dessous). 
 
@@ -31,11 +35,9 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 **Cette licence est également ouverte aux étudiants de classes préparatoires souhaitant se réorienter vers l'université.**
 
 
-## Message d'avertissement concernant les réorientations après une PASS et la préparation aux concours "Agro-Véto"
+#### Avertissement 
 
-Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour préparer ces concours, il faut effectuer une classe préparatoire BCPST, ou rejoindre l'université en licence de biologie puis rejoindre le cursus bioconcours [http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf](http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf).
-
-Les étudiants qui rejoignent la licence double-diplôme après une première année de médecine (PASS) doivent avoir conscience que le niveau en mathématiques dans la licence double-diplôme est très élevé. En tant qu'étudiant en PASS, ces étudiants n'ont pas fait de mathématiques depuis le baccalauréat et doivent sérieusement se mettre à niveau en mathématiques avant leur entrée en LDD1.   
+- Les étudiants qui rejoignent la licence double-diplôme après une première année de médecine (PASS) doivent avoir conscience que le niveau en mathématiques dans la licence double-diplôme est très élevé. En tant qu'étudiant en PASS, ces étudiants n'ont pas fait de mathématiques depuis le baccalauréat et doivent sérieusement se mettre à niveau en mathématiques avant leur entrée en LDD1.   
 
 ## Les Journée "Portes Ouvertes" ont eu lieu le samedi 3 février 2024
 
