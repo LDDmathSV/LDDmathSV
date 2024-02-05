@@ -1,4 +1,4 @@
-## Licence Mathématiques-Sciences de la vie à l'Université Paris-Saclay
+## Informations sur la Licence Mathématiques-Sciences de la vie à l'Université Paris-Saclay
 
 
 #### Informations générales sur la licence double-diplôme MathSV 
@@ -37,11 +37,11 @@ Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour pr�
 
 Les étudiants qui rejoignent la licence double-diplôme après une première année de médecine (PASS) doivent avoir conscience que le niveau en mathématiques dans la licence double-diplôme est très élevé. En tant qu'étudiant en PASS, ces étudiants n'ont pas fait de mathématiques depuis le baccalauréat et doivent sérieusement se mettre à niveau en mathématiques avant leur entrée en LDD1.   
 
-## Les Journée "Portes Ouvertes" auront lieu le samedi 3 février 2024
+## Les Journée "Portes Ouvertes" ont eu lieu le samedi 3 février 2024
 
 Les informations sont disponibles ici [https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.](https://www.universite-paris-saclay.fr/actualites/journees-portes-ouvertes-de-luniversite-paris-saclay-2024#:~:text=Le%20samedi%203%20février%2C%20le,occasion%20des%20Journées%20Portes%20Ouvertes.)
 
-Si vous souhaitez des informations sur la formation, et que vous ne pouvez pas vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
+Si vous souhaitez des informations sur la formation, et que vous n'avez pas pu vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
 pour poser vos questions. 
 
 
@@ -56,6 +56,99 @@ _Actuellement en fin de M2, j'ai intégré mon master de Bioinformatique (Paris-
 
 _Je n’étais pas certaine de ce que je voulais faire à la sortie du lycée. Je savais que j’aimais les maths, et mon objectif initial était d’intégrer une licence simple de mathématiques. Comme j’aimais aussi la biologie et que j’étais bonne élève, j’ai décidé de demander aussi la double licence Mathématiques et Sciences de la Vie sur Parcoursup. Et surprise, j’y ai été acceptée ! Je n’ai pas regretté mon choix : malgré la quantité de travail assez conséquente, j’ai adoré la pluridisciplinarité de la formation. La petite taille de la promo nous a permis de créer des liens et de pouvoir travailler en groupe plus facilement. Les difficultés sont arrivées au cours des années : la formation devenait de plus en plus exigeante, notamment en mathématiques où il faut fournir un travail régulier pour ne pas se perdre. Loin de là les maths du lycée, c’était de plus en plus abstrait et technique au fil des cours. Les enseignements que nous avons dû suivre en distanciel à cause de la pandémie ne nous ont pas facilité les choses. 
 J’ai réussi, non sans mal, à valider et obtenir ma licence double-diplôme. Ce qui est bien à l’issue d’une telle formation, c’est que de nombreuses portes nous sont ouvertes, dans des disciplines variées, pour poursuivre nos études. Je me suis rendue compte au fil des années que j’étais faite pour la biologie et non pour les mathématiques. J’ai donc intégré un master de Neurosciences que j’ai adoré suivre. La double licence m’a permis d’aborder les problèmes avec un point de vue différent. Malgré les difficultés, j’en garde un très bon souvenir et je suis fière d’avoir fait partie de la première promotion de double-diplômés français en Mathématiques et Sciences de la Vie._ Lucie, mars 2023. 
+
+## Programme de la formation
+
+
+Le programme de la formation est accessible ici [https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie). 
+
+### Programme de la première année (LDD1)
+#### Matières principales 
+- Calculus renforcé
+- Algèbre et géométrie renforcé
+- Calcul intégral renforcé
+- Algèbre linéaire renforcé
+- Biologie 1 : Unité, diversité, évolution du vivant 
+- Chimie 1 : De l'atome à la matière
+- Biologie 2 : De la molécule à l'organisme
+- Chimie 2 : Transformations et propriétés de la matière
+
+#### Autres matières scientifiques
+- Programmation impérative
+- Calcul scientifique avec Python
+- Mathématiques, informatique pour la biologie
+- Projet tutoré biomathématiques
+- Méthodologie en Biologie et Mathématiques
+- Chimie-Biologie : Aux origines de la vie
+  
+#### Autres 
+- Anglais
+- PPEI - Comprendre l'Entreprise - 1ère partie
+- PPEI - Explorer un Environnement Professionnel
+
+### Programme de la deuxième année (LDD2)
+
+#### Matières principales 
+- Analyse et convergence
+- Probabilités et Statistiques
+- Analyse et géométrie
+- Algèbre linéaire 2
+- Génétique et Biologie Moléculaire 1 (GBM1)
+- Biochimie
+- Génétique et Biologie Moléculaire 2 (GBM2)
+- Biologie cellulaire et développement
+
+
+#### Autres matières scientifiques
+- Écologie et Génétique des Populations (EGP)
+- Physiologie Végétale
+- Physiologie Cellulaire
+- Oraux de Math 1&2
+- Projet tutoré biomathématiques
+- Structures algébriques
+- SPOC Enjeux de la transition écologique
+- Analyse numérique avec python
+- Modélisation
+
+#### Autres matières
+- Anglais scientifique
+- Histoire des sciences, science & société
+- Stage d'initiation à la recherche (dans un laboratoire choisi par l'étudiant)
+
+
+### Programme de la troisième année (LDD3)
+
+En troisème année, différents parcours permettent de sélectionner différentes matières dans l'ensemble des enseignements listés ci-dessous: 
+
+- De l'exploration des génomes à la fonction des macromolécules
+- Dynamique Cellulaire
+- Physiologie des Fonctions Cardiorespiratoires, Digestives et Métabolisme
+- Métabolisme chez les végétaux
+- Monde microbien
+- Écologie des écosystèmes
+- Génétique pour la LDD
+- Ecologie : théorie et pratique (LDD MSV)
+- Biologie évolutive
+- Physiologie des Régulations Endocrines et Neurosciences
+- Réponses des Plantes aux Contraintes de l'Environnement
+- Pathologie des microorganismes: aspects cliniques et moléculaires
+- Compléments en biologie moléculaire et biochimie
+- Génétique des populations et quantitative
+- Projet tutoré biomathématiques
+- Méthodes statistiques de prévision
+- Inférence statistique
+- Lang - Anglais 
+- Integration
+- Calcul différentiel et optimisation
+- Probabilités
+- Equations différentielles et résolution numérique
+- Analyse hilbertienne
+- Oraux/Prépa concours
+- Sciences des données en Biologie
+- Développement
+- Algèbre Linéaire pour l’Analyse numérique
+- Immunologie - Virologie
+
 
 
 ## Procédures d'admission 
