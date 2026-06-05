@@ -206,8 +206,8 @@ J’ai réussi, non sans mal, à valider et obtenir ma licence double-diplôme. 
 ### Admission en première année (LDD1)
 
  - La procédure d'admission en première année est disponible via cette application  [https://www.parcoursup.fr](https://www.parcoursup.fr).
- - **La limite pour s'incrire et formuler les voeux sera probablement fixée vers mars 2026.** 
- - **La limite pour déposer les dossiers est fixée sera probablement fixée vers avril 2026.**
+ - **La limite pour s'incrire et formuler les voeux sera probablement fixée en mars.** 
+ - **La limite pour déposer les dossiers est fixée sera probablement fixée en avril.**
  - La phase complémentaire parcoursup s’ouvrira au cours du mois de juin. Elle permettra aux étudiants de formuler des nouveaux vœux et de rejoindre la formation. 
 
 
