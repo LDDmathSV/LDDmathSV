@@ -37,7 +37,7 @@ Le programme de la formation est accessible ici [https://www.universite-paris-sa
 - Mathématiques, informatique pour la biologie
 - Projet tutoré biomathématiques
 - Méthodologie en Biologie et Mathématiques
-- Chimie-Biologie : Aux origines de la vie
+- Physique pour la biologie
   
 #### Autres 
 - Anglais
@@ -180,7 +180,7 @@ Les enseignements de mathématiques sont communs avec d’autres filières séle
 
 ## Rencontres aves les étudiants de la formation
 
-#### Les Journée "Portes Ouvertes" aura lieu en février 2026 sur le campus de l'université Paris-Saclay, au batiment 337 situé à 20 min à pied du RER Orsay Ville (RER B). 
+#### Les Journée "Portes Ouvertes" a lieu chaque année début février sur le campus de l'université Paris-Saclay, au batiment 337 situé à 20 min à pied du RER Orsay Ville (RER B). Il faut consulter le site de l'université pour avoir les précisions sur la date exacte et le lieu.
 
 Si vous souhaitez des informations sur la formation, et que vous n'avez pas pu vous déplacer, vous pouvez nous contacter par e-mail à l'adresse melina.gallopin@universite-paris-saclay.fr
 pour poser vos questions. 
@@ -228,8 +228,8 @@ candidature en LDD2 ou LDD3 à télécharger et à déposer une fois complétée
       - NB: en cas de problème technique,consultez les FAQ et/ou envoyez un message
 à assistance.candidature@universite-paris-saclay.fr
 
-  - Ouverture de la période de candidature :  **juin 2026**. 
-  - Fermeture de la période de candidature : **juillet 2026**.
+  - Ouverture de la période de candidature :  **juin**. 
+  - Fermeture de la période de candidature : **juillet**.
   - Les étudiant(e)s sont sélectionné(e)s sur dossier. Les étudiant(e)s retenu(e)s seront contacté(e)s à partir de mi-juillet.
  
 #### Pour toute demande d'informations, n'hésitez pas à contacter la personne ci-dessous :
