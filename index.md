@@ -36,7 +36,6 @@ Le programme de la formation est accessible ici [https://www.universite-paris-sa
 - Calcul scientifique avec Python
 - Mathématiques, informatique pour la biologie
 - Projet tutoré biomathématiques
-- Méthodologie en Biologie et Mathématiques
 - Physique pour la biologie
   
 #### Autres 
@@ -67,6 +66,7 @@ Le programme de la formation est accessible ici [https://www.universite-paris-sa
 - SPOC Enjeux de la transition écologique
 - Analyse numérique avec python
 - Modélisation
+- Méthodologie en Biologie et Mathématiques
 
 #### Autres matières
 - Anglais scientifique
@@ -149,7 +149,7 @@ Cette licence double-diplôme permet également aux étudiant(e)s motivé(e)s de
 
 #### Avertissements concernant les poursuites d'études
 - Cette licence double diplôme ne prépare pas au concours "Agro-Véto". Pour préparer ces concours, il faut effectuer une classe préparatoire BCPST, ou rejoindre l'université en licence de biologie puis rejoindre le cursus bioconcours [http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf](http://www.dep-biologie.universite-paris-saclay.fr/wp-content/uploads/2020/01/FICHE-ECOLE-2020-L2Bio-cursus-Bio-Concours.pdf).
-- Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences ou de sciences cognitives. En revanche, il est important de remarquer que notre licence ne contient pas d'enseignements de physique. 
+- Certains étudiants de notre licence ont poursuivi leur études dans des masters de neurosciences ou de sciences cognitives (à l'interface de nombreuses matières, mathématiques, biologie et physique). En revanche, il est important de remarquer que notre licence contient très peu d'enseignements en physique (un seul module au deuxième semestre de première année). 
 
 #### Liste non exhaustive des masters rejoints par certains anciens étudiants de la formation
 - **M1 Biologie Santé, Université Paris Saclay**
@@ -217,8 +217,8 @@ J’ai réussi, non sans mal, à valider et obtenir ma licence double-diplôme. 
 Une procédure d'admission en deuxième année de licence et troisième est possible (pour les étudiants ayant le niveau requis) pour réussir dans la formation 
  via la plateforme eCandidat  [https://ecandidat.universite-paris-saclay.fr](https://ecandidat.universite-paris-saclay.fr) :
  
- - Pour les étudiant(e)s inscrit(e)s à l’UPSaclay en 2025-2026, identifiez-vous avec vos identifiants ADONIS
- -  Pour les étudiant(e)s non-inscrit(e)s à l’UPSaclay en 2025-2026, vous devrez créer un compte.
+ - Pour les étudiant(e)s inscrit(e)s lors de l'année en cours à l’UPSaclay, identifiez-vous avec vos identifiants ADONIS
+ -  Pour les étudiant(e)s non-inscrit(e)s lors de  l'année en cours à l’UPSaclay, vous devrez créer un compte.
  -  Pour candidater :
       - consultez le Guide d'utilisation eCandidat disponible [ici](http://webapplis3.di.u-psud.fr/ecandidat-aide/documentation/candidat/guide_du_candidat.pdf)
       - déposez tous les justificatifs demandés (CV ; lettre de motivation ; relevés de notes
